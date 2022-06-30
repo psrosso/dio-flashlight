@@ -2,10 +2,10 @@
 
 |Desafio dio: Construindo um app usando o sensor de movimento com React Native|
 
-| Desafio dio: Construindo um app usando o sensor de movimento com React Native |     |
+| Desafio dio: React Native|     |
 | -------------  | --- |
 | ✨ Nome        | **Flashlight**
-|  🔥 Desafio |
+|  🔥 Desafio | De acordo com o movimento do celular, a lanterna pode acender ou desligar.
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
 
