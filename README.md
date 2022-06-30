@@ -4,10 +4,7 @@
 
 | 🪧 Vitrine.Dev |     |
 | -------------  | --- |
-| ✨ Nome        | **Optimus Tech**
-| 🏷️ Tecnologias | html, css, javascript
-| 🚀 URL         | [https://jacksonadh.github.io/Alura7DaysOfCodeHtml/](https://jacksonadh.github.io/Alura7DaysOfCodeHtml/)
-| 🔥 Desafio     | [https://7daysofcode.io/matricula/html-css](https://7daysofcode.io/matricula/html-css)
+
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
 
