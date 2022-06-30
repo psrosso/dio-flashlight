@@ -2,7 +2,7 @@
 
 |Desafio dio: Construindo um app usando o sensor de movimento com React Native|
 
-| 🪧 Vitrine.Dev |     |
+| Desafio dio: Construindo um app usando o sensor de movimento com React Native |     |
 | -------------  | --- |
 | ✨ Nome        | **Optimus Tech**
 
