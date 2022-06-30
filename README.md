@@ -4,7 +4,8 @@
 
 | Desafio dio: Construindo um app usando o sensor de movimento com React Native |     |
 | -------------  | --- |
-| ✨ Nome        | **Optimus Tech**
+| ✨ Nome        | **Flashlight**
+|  🔥 Desafio |
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
 
