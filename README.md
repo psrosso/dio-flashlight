@@ -3,7 +3,7 @@
 
 
 | Desafio DIO: React Native|     |
-| ------  | --- |
+| ---  | --- |
 | ✨ Nome        | **Flashlight**
 |  🔥 Desafio | Desenvolver uma lanterna que apaga ou acende, de acordo com o movimento do celular
 
